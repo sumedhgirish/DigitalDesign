@@ -18,3 +18,19 @@ how to go from point A to point B on a map, then this subject is about building 
 THe point is not that it works in software. It is that it works in hardware. I rather prefer my model scary but working, than cute but worthless.
 
 discrete information ---(digital circuit)--> output(other discrete info)
+
+
+# How to write verilog code
+
+We use 2 files, 1 to implement code and another to test the code
+
+    1. teshbench.v
+    2. modules.v
+
+Syntax
+
+```{.v}
+module function_name(ports)
+    // code
+endmodule
+```
