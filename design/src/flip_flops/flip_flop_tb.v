@@ -1,10 +1,11 @@
 module flip_flop_tb ();
   reg inp1, inp2, clk, rst;
-  wire t_out, d_out, jk_out;
+  wire t_out, d_out, jk_out, sr_out;
 
   initial begin
-    $monitor("Inputs=%b %b :: T=%b D=%b JK=%b :: rst=%b", inp1, inp2, t_out, d_out, jk_out, rst);
-    {inp1, inp2} = 2'b00;
+    $monitor("Inputs=%b %b :: T=%b D=%b JK=%b SR=%b :: rst=%b", inp1, inp2, t_out, d_out, jk_out,
+             sr_out, rst);
+    {inp1, inp2} = 2'b01;
     rst = 1'b1;
     clk = 1'b0;
 
@@ -37,9 +38,15 @@ module flip_flop_tb ();
 
   jk_flip_flop U2 (
       .clk(clk),
-      .rst(rst),
       .j  (inp1),
       .k  (inp2),
       .q  (jk_out)
+  );
+
+  sr_flip_flop U3 (
+      .clk(clk),
+      .set(inp1),
+      .rst(inp2),
+      .q  (sr_out)
   );
 endmodule
