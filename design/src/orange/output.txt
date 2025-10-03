@@ -1,0 +1,17 @@
+VCD info: dumpfile orange_tb.vcd opened for output.
+----RESET----
+inp: z :: out: 0 :: state: 00 :: rst: 1
+inp: 0 :: out: 0 :: state: 00 :: rst: 1
+----RESET----
+inp: 0 :: out: 0 :: state: 01 :: rst: 0
+inp: 1 :: out: 0 :: state: 11 :: rst: 0
+inp: 0 :: out: 1 :: state: 00 :: rst: 0
+inp: 1 :: out: 0 :: state: 01 :: rst: 0
+inp: 0 :: out: 1 :: state: 00 :: rst: 0
+inp: 1 :: out: 0 :: state: 01 :: rst: 0
+inp: 0 :: out: 1 :: state: 00 :: rst: 0
+inp: 0 :: out: 0 :: state: 01 :: rst: 0
+inp: 0 :: out: 0 :: state: 11 :: rst: 0
+inp: 0 :: out: 1 :: state: 00 :: rst: 0
+inp: 0 :: out: 0 :: state: 01 :: rst: 0
+inp: 0 :: out: 0 :: state: 11 :: rst: 0

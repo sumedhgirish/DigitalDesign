@@ -1,0 +1,15 @@
+VCD info: dumpfile ripple_up_2bit.vcd opened for output.
+6000  clk=1 rst=1  Q=00
+16000  clk=1 rst=0  Q=00
+26000  clk=1 rst=0  Q=01
+36000  clk=1 rst=0  Q=10
+46000  clk=1 rst=0  Q=11
+56000  clk=1 rst=0  Q=00
+66000  clk=1 rst=0  Q=01
+76000  clk=1 rst=0  Q=10
+86000  clk=1 rst=0  Q=11
+96000  clk=1 rst=0  Q=00
+106000  clk=1 rst=0  Q=01
+116000  clk=1 rst=0  Q=10
+126000  clk=1 rst=0  Q=11
+tb_ripple.v:30: $finish called at 135000 (1ps)

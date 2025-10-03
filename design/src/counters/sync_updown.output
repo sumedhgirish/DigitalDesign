@@ -1,0 +1,10 @@
+VCD info: dumpfile updown_2bit_jk.vcd opened for output.
+5000  clk=1 rst=1 upDn=1  Q=xx
+15000  clk=1 rst=1 upDn=1  Q=00
+25000  clk=1 rst=0 upDn=1  Q=00
+35000  clk=1 rst=0 upDn=1  Q=10
+45000  clk=1 rst=0 upDn=1  Q=10
+55000  clk=1 rst=0 upDn=0  Q=10
+65000  clk=1 rst=0 upDn=0  Q=10
+75000  clk=1 rst=0 upDn=0  Q=00
+tb_sync_updown.v:43: $finish called at 80000 (1ps)

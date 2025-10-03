@@ -1,0 +1,1 @@
+implement D-flipflop using T-flipflop

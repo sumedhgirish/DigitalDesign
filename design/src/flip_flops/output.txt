@@ -1,0 +1,9 @@
+VCD info: dumpfile flip_flops.vcd opened for output.
+Inputs=0 1 :: T=0 D=0 JK=x SR=x DfT=0 :: rst=1
+Inputs=0 1 :: T=0 D=0 JK=0 SR=0 DfT=0 :: rst=0
+Inputs=0 0 :: T=0 D=0 JK=0 SR=0 DfT=0 :: rst=0
+Inputs=0 1 :: T=0 D=0 JK=0 SR=0 DfT=0 :: rst=0
+Inputs=1 0 :: T=1 D=1 JK=1 SR=1 DfT=1 :: rst=0
+Inputs=1 1 :: T=0 D=1 JK=0 SR=x DfT=1 :: rst=0
+Inputs=1 1 :: T=1 D=1 JK=1 SR=x DfT=1 :: rst=0
+Inputs=1 1 :: T=0 D=1 JK=0 SR=x DfT=1 :: rst=0

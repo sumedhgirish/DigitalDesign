@@ -1,0 +1,232 @@
+$date
+	Mon Sep 15 19:05:18 2025
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module orange_tb $end
+$var wire 2 ! state [1:0] $end
+$var wire 1 " dispenser_output $end
+$var reg 1 # clk $end
+$var reg 1 $ coin $end
+$var reg 1 % rst $end
+$scope module U0 $end
+$var wire 1 # clk $end
+$var wire 1 $ coin_type $end
+$var wire 1 % rst $end
+$var wire 2 & state [1:0] $end
+$var wire 1 " is_dispensed $end
+$scope module U0 $end
+$var wire 1 # clk $end
+$var wire 1 ' data $end
+$var wire 1 % rst $end
+$var reg 1 " q $end
+$upscope $end
+$scope module U1 $end
+$var wire 1 # clk $end
+$var wire 1 ( data $end
+$var wire 1 % rst $end
+$var reg 1 ) q $end
+$upscope $end
+$scope module U2 $end
+$var wire 1 # clk $end
+$var wire 1 * data $end
+$var wire 1 % rst $end
+$var reg 1 + q $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+x+
+x*
+x)
+x(
+x'
+bx &
+1%
+z$
+0#
+x"
+bx !
+$end
+#1
+0'
+0"
+0)
+b0 !
+b0 &
+0+
+#5
+1#
+#10
+1(
+0*
+0#
+0$
+#15
+1#
+#20
+0#
+0%
+#21
+1*
+b1 !
+b1 &
+1)
+#25
+1#
+#26
+0*
+0(
+1'
+b11 !
+b11 &
+1+
+#30
+0#
+1$
+#35
+1#
+#36
+1*
+0'
+0+
+b0 !
+b0 &
+0)
+1"
+#40
+1(
+0*
+0#
+0$
+#45
+1#
+#46
+1*
+0"
+b1 !
+b1 &
+1)
+#50
+0*
+1'
+0(
+0#
+1$
+#55
+1#
+#56
+1*
+0'
+b0 !
+b0 &
+0)
+1"
+#60
+1(
+0*
+0#
+0$
+#65
+1#
+#66
+1*
+0"
+b1 !
+b1 &
+1)
+#70
+0*
+1'
+0(
+0#
+1$
+#75
+1#
+#76
+1*
+0'
+b0 !
+b0 &
+0)
+1"
+#80
+1(
+0*
+0#
+0$
+#85
+1#
+#86
+1*
+0"
+b1 !
+b1 &
+1)
+#90
+0#
+#95
+1#
+#96
+0*
+0(
+1'
+b11 !
+b11 &
+1+
+#100
+0#
+#105
+1#
+#106
+1(
+0'
+1"
+0)
+b0 !
+b0 &
+0+
+#110
+0#
+#115
+1#
+#116
+1*
+b1 !
+b1 &
+1)
+0"
+#120
+0#
+#125
+1#
+#126
+0*
+0(
+1'
+b11 !
+b11 &
+1+
+#130
+0#
+#135
+1#
+#136
+1(
+0'
+0+
+b0 !
+b0 &
+0)
+1"
+#140
+0#

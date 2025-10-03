@@ -1,0 +1,185 @@
+$date
+	Tue Sep 30 12:51:39 2025
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module tb_ripple_up_counter_2bit $end
+$var wire 2 ! q [1:0] $end
+$var reg 1 " clk $end
+$var reg 1 # rst $end
+$scope module dut $end
+$var wire 1 " clk $end
+$var wire 1 # rst $end
+$var wire 2 $ q [1:0] $end
+$scope module U0 $end
+$var wire 1 " clk $end
+$var wire 1 % d $end
+$var wire 1 # rst $end
+$var parameter 1 & INIT $end
+$var reg 1 ' q $end
+$upscope $end
+$scope module U1 $end
+$var wire 1 ( clk $end
+$var wire 1 ) d $end
+$var wire 1 # rst $end
+$var parameter 1 * INIT $end
+$var reg 1 + q $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+0*
+0&
+$end
+#0
+$dumpvars
+x+
+x)
+x(
+x'
+x%
+bx $
+1#
+0"
+bx !
+$end
+#5000
+1)
+0+
+1(
+1%
+b0 !
+b0 $
+0'
+1"
+#10000
+0"
+#15000
+0#
+1"
+#20000
+0"
+#25000
+0(
+0%
+b1 !
+b1 $
+1'
+1"
+#30000
+0"
+#35000
+0)
+1+
+1(
+1%
+b10 !
+b10 $
+0'
+1"
+#40000
+0"
+#45000
+0(
+0%
+b11 !
+b11 $
+1'
+1"
+#50000
+0"
+#55000
+1)
+0+
+1(
+1%
+b0 !
+b0 $
+0'
+1"
+#60000
+0"
+#65000
+0(
+0%
+b1 !
+b1 $
+1'
+1"
+#70000
+0"
+#75000
+0)
+1+
+1(
+1%
+b10 !
+b10 $
+0'
+1"
+#80000
+0"
+#85000
+0(
+0%
+b11 !
+b11 $
+1'
+1"
+#90000
+0"
+#95000
+1)
+0+
+1(
+1%
+b0 !
+b0 $
+0'
+1"
+#100000
+0"
+#105000
+0(
+0%
+b1 !
+b1 $
+1'
+1"
+#110000
+0"
+#115000
+0)
+1+
+1(
+1%
+b10 !
+b10 $
+0'
+1"
+#120000
+0"
+#125000
+0(
+0%
+b11 !
+b11 $
+1'
+1"
+#130000
+0"
+#135000
+1)
+0+
+1(
+1%
+b0 !
+b0 $
+0'
+1"

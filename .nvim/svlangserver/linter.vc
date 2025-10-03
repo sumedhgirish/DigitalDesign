@@ -1,12 +1,16 @@
 +incdir+/home/crownedhog/concepts/hardware/design/src/adders
 +incdir+/home/crownedhog/concepts/hardware/design/src/arbiter
++incdir+/home/crownedhog/concepts/hardware/design/src/counters
 +incdir+/home/crownedhog/concepts/hardware/design/src/flip_flops
 +incdir+/home/crownedhog/concepts/hardware/design/src/gates
 +incdir+/home/crownedhog/concepts/hardware/design/src/hello_world
 +incdir+/home/crownedhog/concepts/hardware/design/src/mux
++incdir+/home/crownedhog/concepts/hardware/design/src/orange
 +incdir+/home/crownedhog/concepts/hardware/design/src/adders
 +incdir+/home/crownedhog/concepts/hardware/design/src/arbiter
++incdir+/home/crownedhog/concepts/hardware/design/src/counters
 +incdir+/home/crownedhog/concepts/hardware/design/src/flip_flops
 +incdir+/home/crownedhog/concepts/hardware/design/src/gates
 +incdir+/home/crownedhog/concepts/hardware/design/src/hello_world
 +incdir+/home/crownedhog/concepts/hardware/design/src/mux
++incdir+/home/crownedhog/concepts/hardware/design/src/orange
